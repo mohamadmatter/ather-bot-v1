@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+requests
+pandas
+mplfinance
+matplotlib
+fastapi
+uvicorn
